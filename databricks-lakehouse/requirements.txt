@@ -1,0 +1,3 @@
+# Local development / unit tests only. On Databricks the runtime already provides Spark + Delta.
+pyspark>=3.5
+pytest>=8.0

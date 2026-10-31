@@ -1,0 +1,309 @@
+order_id,customer_id,product,category,quantity,unit_price,order_date,country,status
+ORD00025,C053,Phone,Electronics,2,543.36,2026-02-25,Germany,completed
+ORD00138,C012,Desk,Furniture,1,265.13,2026-01-09,Australia,completed
+ORD00120,C013,Desk,Furniture,3,263.29,2026-01-14,Germany,completed
+ORD00018,C040,Desk,Furniture,5,267.02,2026-01-14,UK,completed
+ORD00095,C006,Notebook,Stationery,1,4.89,2026-01-14,UK,shipped
+ORD00037,C008,Desk,Furniture,4,247.11,2026-01-09,  INDIA ,COMPLETED
+ORD00082,C060,Laptop,Electronics,4,858.33,2026-01-20,UK,completed
+ORD00016,C013,Headphones,Electronics,5,130.96,2026-01-31,UK,completed
+ORD00169,C026,Laptop,Electronics,5,884.73,2026-01-14,Australia,completed
+ORD00282,C006,Notebook,Stationery,1,4.41,2026-02-07,  USA ,SHIPPED
+ORD00272,C035,Phone,Electronics,5,643.55,2026-02-01,India,completed
+ORD00154,C039,Laptop,Electronics,2,1009.8,2026-01-17,Australia,shipped
+ORD00248,C025,Laptop,Electronics,4,1027.56,2026-02-19,India,completed
+ORD00106,C025,Phone,Electronics,4,617.5,2026-01-18,UK,completed
+ORD00043,C040,Chair,Furniture,3,150.37,2026-01-22,India,completed
+ORD00064,C001,Pen Set,Stationery,1,11.43,2026-02-02,India,completed
+ORD00176,,Phone,Electronics,4,583.84,2026-01-05,UK,cancelled
+ORD00280,,Chair,Furniture,5,145.34,2026-01-22,Germany,shipped
+ORD00195,C014,Phone,Electronics,-2,614.87,2026-02-07,UK,completed
+ORD00061,C017,Laptop,Electronics,3,1037.74,2026-01-29,USA,completed
+ORD00287,C056,Phone,Electronics,1,590.59,2026-02-12,India,completed
+ORD00093,C033,Desk,Furniture,3,234.49,2026-01-18,Australia,shipped
+ORD00181,C023,Pen Set,Stationery,5,12.61,2026-01-05,Germany,completed
+ORD00045,C012,Pen Set,Stationery,3,12.61,2026-02-27,UK,completed
+ORD00151,C024,Laptop,Electronics,5,1019.56,2026-01-13,UK,cancelled
+ORD00273,C030,Headphones,Electronics,5,119.94,2026-02-23,Australia,shipped
+ORD00022,C058,Chair,Furniture,4,159.2,2026-01-10,Germany,cancelled
+ORD00222,C051,Laptop,Electronics,4,860.94,2026-02-17,USA,completed
+ORD00250,C055,Laptop,Electronics,5,941.79,2026-01-23,Germany,shipped
+ORD00262,,Desk,Furniture,5,256.87,2026-01-31,Australia,completed
+ORD00158,C027,Headphones,Electronics,3,124.03,2026-02-14,UK,completed
+ORD00006,C001,Laptop,Electronics,5,883.74,2026-01-04,India,completed
+ORD00137,C030,Notebook,Stationery,4,4.76,2026-01-31,  UK ,SHIPPED
+ORD00300,C020,Headphones,Electronics,5,111.98,2026-01-25,UK,cancelled
+ORD00030,C010,Pen Set,Stationery,2,11.14,2026-02-19,USA,completed
+ORD00134,C018,Headphones,Electronics,3,130.98,2026-01-22,USA,completed
+ORD00206,C017,Laptop,Electronics,2,977.36,2026-01-15,India,completed
+ORD00078,C022,Phone,Electronics,3,618.18,2026-02-08,Australia,cancelled
+ORD00258,C054,Notebook,Stationery,4,4.47,2026-02-12,Australia,cancelled
+ORD00172,C050,Notebook,Stationery,3,4.63,2026-02-24,Australia,cancelled
+ORD00199,C060,Chair,Furniture,5,157.01,2026-01-29,Germany,completed
+ORD00014,C051,Pen Set,Stationery,2,12.73,2026-02-09,UK,completed
+ORD00092,C004,Laptop,Electronics,3,975.64,2026-01-18,Germany,completed
+ORD00270,C027,Headphones,Electronics,2,127.85,2026-01-08,UK,shipped
+ORD00162,C030,Headphones,Electronics,2,111.12,2026-02-26,India,cancelled
+ORD00209,C001,Chair,Furniture,2,142.81,2026-01-06,Germany,completed
+ORD00164,C011,Chair,Furniture,2,145.44,2026-02-17,Germany,cancelled
+ORD00192,C058,Headphones,Electronics,1,111.17,2026-02-02,Germany,cancelled
+ORD00237,C039,Headphones,Electronics,5,116.37,2026-02-16,Germany,completed
+ORD00221,C050,Headphones,Electronics,5,120.09,2026-02-28,Australia,cancelled
+ORD00256,C030,Desk,Furniture,2,233.23,2026-02-21,India,completed
+ORD00225,C049,Pen Set,Stationery,1,10.81,2026-01-19,UK,completed
+ORD00179,C009,Pen Set,Stationery,1,12.86,2026-02-11,  USA ,COMPLETED
+ORD00174,C040,Laptop,Electronics,4,943.4,2026-01-02,UK,cancelled
+ORD00080,C044,Phone,Electronics,4,574.9,2026-02-14,USA,completed
+ORD00282,C006,Notebook,Stationery,1,4.41,2026-02-07,  USA ,SHIPPED
+ORD00108,C001,Desk,Furniture,1,244.58,2026-02-07,USA,shipped
+ORD00081,C030,Desk,Furniture,1,274.67,2026-01-30,USA,completed
+ORD00153,C003,Phone,Electronics,3,580.8,2026-01-23,India,completed
+ORD00065,C003,Chair,Furniture,4,135.67,2026-01-26,Australia,completed
+ORD00212,C028,Laptop,Electronics,2,963.36,2026-02-24,Australia,completed
+ORD00055,C042,Pen Set,Stationery,4,12.38,2026-02-12,USA,shipped
+ORD00185,C011,Desk,Furniture,3,230.75,2026-02-27,USA,completed
+ORD00157,C010,Chair,Furniture,5,137.73,2026-02-12,Germany,shipped
+ORD00008,C024,Chair,Furniture,4,138.69,2026-01-23,UK,shipped
+ORD00254,C027,Laptop,Electronics,4,974.43,2026-01-01,Australia,cancelled
+ORD00259,C050,Phone,Electronics,4,582.57,2026-02-11,Germany,completed
+ORD00074,C034,Notebook,Stationery,1,4.72,2026-01-06,UK,completed
+ORD00148,C042,Phone,Electronics,1,618.4,2026-02-03,India,completed
+ORD00116,C027,Laptop,Electronics,3,865.51,2026-01-16,Germany,shipped
+ORD00191,C015,Laptop,Electronics,2,910.28,2026-02-17,UK,shipped
+ORD00299,C001,Laptop,Electronics,1,857.8,2026-02-15,USA,completed
+ORD00136,C039,Pen Set,Stationery,1,10.86,2026-02-16,  GERMANY ,COMPLETED
+ORD00213,C038,Chair,Furniture,1,151.96,2026-01-26,Germany,completed
+ORD00029,C056,Laptop,Electronics,4,1002.54,2026-02-02,USA,completed
+ORD00284,C059,Pen Set,Stationery,4,12.26,2026-01-13,India,cancelled
+ORD00005,C014,Laptop,Electronics,4,885.84,2026-01-13,Australia,cancelled
+ORD00042,C036,Headphones,Electronics,4,118.57,2026-01-02,India,shipped
+ORD00073,C052,Desk,Furniture,1,262.41,2026-01-01,  USA ,CANCELLED
+ORD00198,C053,Notebook,Stationery,5,4.85,2026-01-04,USA,cancelled
+ORD00009,C020,Desk,Furniture,1,232.21,2026-01-31,Australia,completed
+ORD00160,C026,Phone,Electronics,4,564.44,2026-02-11,India,shipped
+ORD00170,C047,Phone,Electronics,2,544.93,2026-01-10,USA,completed
+ORD00297,C048,Pen Set,Stationery,2,12.55,2026-01-24,India,completed
+ORD00173,C025,Desk,Furniture,3,247.34,2026-01-16,UK,completed
+ORD00201,C004,Phone,Electronics,1,541.48,2026-01-16,USA,completed
+ORD00121,C017,Phone,Electronics,0,553.08,2026-01-30,USA,shipped
+ORD00059,C006,Laptop,Electronics,4,1020.4,2026-01-11,Australia,cancelled
+ORD00104,C022,Headphones,Electronics,1,119.96,2026-01-25,USA,completed
+ORD00044,C015,Pen Set,Stationery,1,11.0,2026-02-28,Australia,completed
+ORD00047,C052,Laptop,Electronics,2,935.81,2026-01-18,India,completed
+ORD00260,C044,Desk,Furniture,3,274.14,2026-02-15,Germany,shipped
+ORD00274,C027,Desk,Furniture,1,234.03,2026-01-24,Australia,completed
+ORD00289,C012,Headphones,Electronics,4,108.82,2026-02-25,India,shipped
+ORD00290,C038,Notebook,Stationery,1,4.5,2026-02-06,USA,completed
+ORD00143,C012,Desk,Furniture,2,231.65,2026-02-15,UK,cancelled
+ORD00168,C055,Chair,Furniture,2,159.88,2026-01-26,Germany,cancelled
+ORD00131,C048,Headphones,Electronics,4,108.73,2026-01-21,UK,completed
+ORD00084,C010,Laptop,Electronics,5,904.74,2026-02-07,Australia,completed
+ORD00069,C049,Chair,Furniture,5,152.05,2026-02-28,India,cancelled
+ORD00224,C019,Pen Set,Stationery,2,11.85,2026-02-06,USA,completed
+ORD00218,C003,Laptop,Electronics,1,1011.76,2026-01-08,Australia,shipped
+ORD00261,C047,Pen Set,Stationery,3,11.66,2026-01-01,Australia,completed
+ORD00026,C049,Phone,Electronics,5,579.12,2026-02-02,USA,shipped
+ORD00205,C048,Desk,Furniture,4,229.02,2026-02-24,UK,completed
+ORD00125,C006,Laptop,Electronics,2,917.56,2026-02-16,Germany,cancelled
+ORD00070,C044,Notebook,Stationery,2,4.13,2026-02-21,India,completed
+ORD00202,C013,Desk,Furniture,5,255.4,2026-01-10,USA,shipped
+ORD00241,C026,Laptop,Electronics,4,986.75,2026-01-03,USA,completed
+ORD00133,C059,Pen Set,Stationery,1,11.42,2026-01-05,India,cancelled
+ORD00215,C002,Notebook,Stationery,1,4.09,2026-01-10,India,completed
+ORD00032,C004,Chair,Furniture,2,140.74,2026-02-26,India,completed
+ORD00177,C003,Notebook,Stationery,1,4.62,2026-02-02,India,completed
+ORD00040,C011,Desk,Furniture,2,233.07,2026-01-26,UK,cancelled
+ORD00292,C044,Laptop,Electronics,4,967.83,2026-01-05,Germany,shipped
+ORD00088,C021,Desk,Furniture,1,267.01,2026-01-23,India,completed
+ORD00054,C033,Phone,Electronics,4,569.48,2026-02-05,UK,completed
+ORD00223,C046,Desk,Furniture,1,251.89,2026-01-23,Germany,completed
+ORD00211,C025,Phone,Electronics,5,596.34,2026-02-08,USA,completed
+ORD00051,C004,Headphones,Electronics,2,112.84,2026-01-11,Australia,completed
+ORD00072,C041,Laptop,Electronics,5,984.33,2026-02-10,UK,completed
+ORD00039,C057,Headphones,Electronics,2,131.22,2026-01-10,Germany,completed
+ORD00110,C053,Laptop,Electronics,4,871.15,2026-02-13,India,completed
+ORD00161,C028,Phone,Electronics,1,638.44,2026-02-27,UK,cancelled
+ORD00279,C019,Pen Set,Stationery,3,11.65,2026-01-04,  UK ,SHIPPED
+ORD00204,C051,Notebook,Stationery,4,4.69,2026-02-26,India,shipped
+ORD00041,C027,Headphones,Electronics,2,116.56,2026-01-26,India,completed
+ORD00150,C015,Headphones,Electronics,1,109.21,2026-02-26,USA,cancelled
+ORD00242,C010,Laptop,Electronics,3,969.7,2026-01-30,UK,completed
+ORD00247,C040,Laptop,Electronics,4,953.47,2026-01-30,Germany,completed
+ORD00048,C006,Notebook,Stationery,3,4.13,2026-01-02,Germany,completed
+ORD00002,C021,Chair,Furniture,2,155.71,2026-02-09,USA,cancelled
+ORD00049,C008,Pen Set,Stationery,4,10.83,2026-01-17,USA,shipped
+ORD00144,C016,Notebook,Stationery,5,4.81,2026-02-27,India,completed
+ORD00162,C030,Headphones,Electronics,2,111.12,2026-02-26,India,cancelled
+ORD00038,C014,Laptop,Electronics,3,1003.95,2026-01-28,Germany,completed
+ORD00013,C035,Phone,Electronics,5,633.49,2026-02-19,Australia,completed
+ORD00216,C005,Laptop,Electronics,5,999.74,2026-02-17,Germany,cancelled
+ORD00036,C060,Headphones,Electronics,5,129.43,2026-02-26,Germany,shipped
+ORD00178,C033,Notebook,Stationery,1,4.1,2026-02-19,USA,shipped
+ORD00277,C056,Laptop,Electronics,3,919.85,2026-01-22,USA,cancelled
+ORD00146,C012,Phone,Electronics,2,568.26,2026-01-29,Australia,cancelled
+ORD00124,C046,Laptop,Electronics,1,889.98,2026-01-27,UK,completed
+ORD00086,C058,Desk,Furniture,4,244.7,2026-01-15,Germany,completed
+ORD00167,C040,Notebook,Stationery,2,4.63,2026-01-06,Germany,cancelled
+ORD00253,C004,Notebook,Stationery,3,4.3,2026-01-23,UK,completed
+ORD00117,C042,Notebook,Stationery,4,4.12,2026-02-26,Germany,shipped
+ORD00230,C058,Desk,Furniture,1,246.11,2026-01-26,India,completed
+ORD00056,C045,Headphones,Electronics,2,131.58,2026-02-02,Australia,completed
+ORD00234,,Chair,Furniture,3,140.09,2026-02-12,UK,completed
+ORD00296,C016,Chair,Furniture,4,157.01,2026-02-16,Germany,completed
+ORD00027,C004,Phone,Electronics,3,647.72,2026-02-23,USA,cancelled
+ORD00281,C022,Laptop,Electronics,2,915.25,2026-02-20,Australia,completed
+ORD00255,C015,Laptop,Electronics,3,995.88,2026-01-17,USA,completed
+ORD00020,C028,Phone,Electronics,3,550.41,2026-02-26,UK,shipped
+ORD00057,C047,Notebook,Stationery,2,4.41,2026-02-23,Australia,completed
+ORD00239,C010,Phone,Electronics,3,628.0,2026-01-25,UK,completed
+ORD00031,C021,Laptop,Electronics,5,955.84,2026-02-05,UK,completed
+ORD00118,C032,Phone,Electronics,1,623.5,2026-01-24,UK,completed
+ORD00100,C059,Desk,Furniture,3,274.82,2026-01-15,UK,shipped
+ORD00197,C010,Notebook,Stationery,3,4.41,2026-01-05,Australia,completed
+ORD00142,C040,Headphones,Electronics,1,113.0,2026-01-05,UK,shipped
+ORD00217,C005,Notebook,Stationery,4,4.15,2026-02-27,Germany,completed
+ORD00246,C026,Pen Set,Stationery,2,11.4,2026-01-16,UK,shipped
+ORD00139,C021,Phone,Electronics,3,595.29,2026-02-08,USA,completed
+ORD00257,C036,Notebook,Stationery,2,4.78,2026-01-31,Germany,completed
+ORD00233,C023,Laptop,Electronics,5,917.07,2026-02-11,Germany,shipped
+ORD00060,C019,Notebook,Stationery,1,4.46,2026-01-16,Germany,completed
+ORD00003,C048,Notebook,Stationery,1,4.46,2026-02-11,USA,shipped
+ORD00132,C050,Notebook,Stationery,4,4.09,2026-02-21,India,shipped
+ORD00035,C052,Chair,Furniture,4,150.23,2026-02-02,Germany,cancelled
+ORD00126,C003,Desk,Furniture,3,258.22,2026-02-17,UK,completed
+ORD00102,C016,Headphones,Electronics,3,114.2,2026-01-06,USA,completed
+ORD00240,C041,Laptop,Electronics,1,908.35,2026-01-13,UK,shipped
+ORD00227,C017,Chair,Furniture,5,163.32,2026-02-23,Australia,completed
+ORD00264,C034,Phone,Electronics,3,615.98,2026-02-20,India,completed
+ORD00263,C025,Pen Set,Stationery,1,11.0,2026-01-20,USA,completed
+ORD00189,C040,Phone,Electronics,1,575.57,2026-01-15,USA,completed
+ORD00112,C034,Headphones,Electronics,4,124.77,2026-02-10,India,completed
+ORD00180,C057,Phone,Electronics,4,574.55,2026-01-13,Germany,completed
+ORD00182,C018,Chair,Furniture,-2,139.31,2026-02-27,USA,shipped
+ORD00119,C013,Desk,Furniture,1,264.85,2026-02-13,USA,completed
+ORD00145,C037,Headphones,Electronics,3,116.95,2026-01-19,Australia,completed
+ORD00252,C012,Notebook,Stationery,4,4.51,2026-01-14,India,cancelled
+ORD00028,C059,Pen Set,Stationery,5,11.11,2026-01-27,Germany,cancelled
+ORD00007,C005,Laptop,Electronics,2,971.67,2026-02-09,Germany,completed
+ORD00294,C041,Phone,Electronics,1,591.24,2026-02-27,India,completed
+ORD00128,C057,Desk,Furniture,1,253.06,2026-01-23,Germany,shipped
+ORD00107,C056,Pen Set,Stationery,1,11.11,2026-02-24,UK,shipped
+ORD00238,C047,Headphones,Electronics,1,111.95,2026-01-13,India,completed
+ORD00101,C013,Chair,Furniture,2,137.72,2026-01-09,Australia,cancelled
+ORD00098,C016,Notebook,Stationery,3,4.48,2026-01-26,UK,completed
+ORD00115,C054,Notebook,Stationery,2,4.48,2026-01-21,  GERMANY ,CANCELLED
+ORD00194,C023,Chair,Furniture,-1,141.73,2026-01-07,USA,completed
+ORD00021,C006,Notebook,Stationery,2,4.2,2026-01-26,Germany,completed
+ORD00019,C006,Notebook,Stationery,1,4.87,2026-02-21,Germany,shipped
+ORD00085,C041,Pen Set,Stationery,5,11.47,2026-02-08,India,completed
+ORD00285,C040,Chair,Furniture,4,153.5,2026-02-28,USA,completed
+ORD00171,C021,Pen Set,Stationery,1,11.74,2026-02-12,UK,cancelled
+ORD00017,C015,Laptop,Electronics,1,898.1,2026-01-24,Germany,completed
+ORD00226,C051,Notebook,Stationery,2,4.92,2026-02-01,USA,completed
+ORD00207,C060,Notebook,Stationery,3,4.69,2026-02-27,Australia,cancelled
+ORD00219,C007,Phone,Electronics,2,575.34,2026-01-07,Australia,shipped
+ORD00050,C040,Headphones,Electronics,2,109.04,2026-02-28,Germany,completed
+ORD00228,C032,Phone,Electronics,2,553.19,2026-02-14,India,shipped
+ORD00241,C026,Laptop,Electronics,4,986.75,2026-01-03,USA,completed
+ORD00275,C003,Chair,Furniture,3,159.26,2026-01-02,India,cancelled
+ORD00099,C011,Notebook,Stationery,1,4.24,2026-01-11,UK,cancelled
+ORD00243,C059,Phone,Electronics,4,624.14,2026-02-17,  USA ,SHIPPED
+ORD00296,C016,Chair,Furniture,4,157.01,2026-02-16,Germany,completed
+ORD00244,C043,Phone,Electronics,5,642.29,2026-02-24,Germany,completed
+ORD00208,C044,Desk,Furniture,5,273.59,2026-02-13,Australia,completed
+ORD00156,C036,Desk,Furniture,4,228.16,2026-02-20,India,shipped
+ORD00166,C003,Pen Set,Stationery,4,11.55,2026-01-09,USA,shipped
+ORD00111,C015,Phone,Electronics,5,650.39,2026-02-20,Australia,completed
+ORD00234,,Chair,Furniture,3,140.09,2026-02-12,UK,completed
+ORD00076,C030,Notebook,Stationery,4,4.81,2026-02-17,India,shipped
+ORD00286,C043,Laptop,Electronics,4,973.8,2026-01-14,Germany,completed
+ORD00283,C004,Chair,Furniture,4,144.01,2026-02-04,India,completed
+ORD00011,C045,Phone,Electronics,5,649.7,2026-01-24,USA,completed
+ORD00094,C052,Laptop,Electronics,4,1028.55,2026-02-26,USA,cancelled
+ORD00097,C027,Desk,Furniture,3,239.09,2026-01-11,Australia,completed
+ORD00114,C001,Chair,Furniture,1,151.12,2026-02-20,  UK ,COMPLETED
+ORD00249,C014,Chair,Furniture,2,156.49,2026-01-17,Germany,cancelled
+ORD00012,C006,Pen Set,Stationery,3,12.04,2026-02-11,Germany,completed
+ORD00096,C009,Pen Set,Stationery,3,11.97,2026-02-09,USA,completed
+ORD00200,C003,Laptop,Electronics,1,955.99,2026-02-27,UK,completed
+ORD00159,C037,Notebook,Stationery,3,4.42,2026-01-20,India,completed
+ORD00075,C055,Laptop,Electronics,3,899.61,2026-02-21,Germany,completed
+ORD00276,C049,Desk,Furniture,2,226.69,2026-01-31,UK,completed
+ORD00109,C051,Phone,Electronics,1,566.86,2026-01-29,Germany,cancelled
+ORD00033,C036,Desk,Furniture,1,263.0,2026-02-02,India,shipped
+ORD00052,C014,Pen Set,Stationery,3,11.87,2026-02-03,Germany,completed
+ORD00295,C014,Laptop,Electronics,1,879.5,2026-02-24,India,completed
+ORD00291,C050,Laptop,Electronics,4,964.31,2026-02-22,UK,shipped
+ORD00127,C011,Desk,Furniture,1,225.14,2026-01-22,Australia,completed
+ORD00163,C052,Notebook,Stationery,4,4.13,2026-01-10,USA,completed
+ORD00135,C046,Notebook,Stationery,3,4.88,2026-01-17,  AUSTRALIA ,COMPLETED
+ORD00024,C052,Laptop,Electronics,1,955.05,2026-01-02,Germany,shipped
+ORD00113,C034,Headphones,Electronics,5,112.6,2026-01-05,Australia,completed
+ORD00214,C008,Laptop,Electronics,1,973.17,2026-01-03,Germany,completed
+ORD00068,C054,Pen Set,Stationery,5,12.31,2026-01-03,USA,completed
+ORD00062,C057,Laptop,Electronics,3,896.39,2026-01-16,Germany,completed
+ORD00066,C034,Chair,Furniture,2,154.73,2026-01-06,USA,shipped
+ORD00083,C029,Chair,Furniture,3,146.61,2026-02-22,Germany,completed
+ORD00235,C009,Phone,Electronics,3,595.44,2026-02-07,Germany,cancelled
+ORD00071,C007,Headphones,Electronics,4,128.06,2026-02-10,USA,completed
+ORD00140,C026,Phone,Electronics,2,569.68,2026-02-02,India,completed
+ORD00184,C012,Phone,Electronics,4,559.35,2026-01-03,Australia,completed
+ORD00288,C053,Pen Set,Stationery,2,12.69,2026-01-24,USA,completed
+ORD00278,C019,Phone,Electronics,4,581.03,2026-02-19,Australia,cancelled
+ORD00152,C050,Pen Set,Stationery,1,11.05,2026-01-17,USA,cancelled
+ORD00015,C032,Chair,Furniture,3,156.93,2026-01-13,India,completed
+ORD00266,C015,Pen Set,Stationery,2,12.66,2026-01-10,Australia,completed
+ORD00147,C005,Headphones,Electronics,4,114.04,2026-01-13,Germany,cancelled
+ORD00001,C019,Headphones,Electronics,1,111.5,2026-01-12,USA,completed
+ORD00103,C048,Laptop,Electronics,4,927.74,2026-02-26,USA,completed
+ORD00010,C045,Pen Set,Stationery,2,12.04,2026-01-31,Germany,cancelled
+ORD00130,C031,Notebook,Stationery,2,4.39,2026-01-04,UK,completed
+ORD00293,C036,Desk,Furniture,1,229.15,2026-02-19,  UK ,COMPLETED
+ORD00175,C030,Pen Set,Stationery,2,12.75,2026-02-19,UK,completed
+ORD00190,C056,Notebook,Stationery,5,4.89,2026-01-20,Australia,completed
+ORD00122,C058,Phone,Electronics,2,598.21,2026-02-09,India,cancelled
+ORD00251,C041,Laptop,Electronics,3,954.12,2026-02-02,UK,shipped
+ORD00227,C017,Chair,Furniture,5,163.32,2026-02-23,Australia,completed
+ORD00067,C047,Headphones,Electronics,4,111.59,2026-02-18,USA,completed
+ORD00004,C026,Desk,Furniture,1,249.08,2026-01-26,UK,completed
+ORD00077,C019,Notebook,Stationery,1,4.61,2026-02-28,Germany,completed
+ORD00265,C042,Laptop,Electronics,3,902.51,2026-01-14,India,cancelled
+ORD00090,C019,Notebook,Stationery,3,4.38,2026-02-27,UK,shipped
+ORD00245,C021,Desk,Furniture,3,256.41,2026-01-30,  INDIA ,SHIPPED
+ORD00231,C017,Headphones,Electronics,4,129.63,2026-01-14,USA,completed
+ORD00058,C001,Phone,Electronics,1,615.05,2026-02-23,Australia,shipped
+ORD00229,C036,Notebook,Stationery,1,4.62,2026-02-20,Australia,completed
+ORD00149,C057,Desk,Furniture,2,267.03,2026-01-01,Australia,completed
+ORD00203,C012,Chair,Furniture,5,144.28,2026-02-22,Australia,completed
+ORD00141,C035,Chair,Furniture,3,139.82,2026-01-31,UK,completed
+ORD00046,C035,Phone,Electronics,5,608.47,2026-01-26,Australia,completed
+ORD00232,C015,Notebook,Stationery,4,4.16,2026-01-25,USA,cancelled
+ORD00155,C012,Headphones,Electronics,5,115.49,2026-02-13,Germany,completed
+ORD00267,C051,Desk,Furniture,5,233.4,2026-01-14,USA,completed
+ORD00268,C051,Chair,Furniture,3,140.92,2026-02-12,  GERMANY ,CANCELLED
+ORD00183,C017,Chair,Furniture,5,150.18,2026-01-14,Australia,completed
+ORD00001,C019,Headphones,Electronics,1,111.5,2026-01-12,USA,completed
+ORD00053,C002,Pen Set,Stationery,3,10.89,2026-01-23,India,cancelled
+ORD00193,C002,Laptop,Electronics,1,855.5,2026-02-11,Australia,completed
+ORD00129,C053,Pen Set,Stationery,3,12.77,2026-01-23,UK,completed
+ORD00298,C046,Chair,Furniture,4,148.82,2026-02-10,Australia,completed
+ORD00210,C059,Notebook,Stationery,3,4.22,2026-01-11,UK,completed
+ORD00063,C006,Desk,Furniture,4,238.95,2026-01-22,Germany,completed
+ORD00220,C023,Laptop,Electronics,3,1031.72,2026-01-17,India,completed
+ORD00186,C024,Pen Set,Stationery,4,12.13,2026-02-10,USA,completed
+ORD00196,C060,Laptop,Electronics,2,989.42,2026-01-09,UK,completed
+ORD00165,C007,Laptop,Electronics,4,948.2,2026-01-11,  GERMANY ,COMPLETED
+ORD00023,C031,Chair,Furniture,3,139.68,2026-02-22,USA,completed
+ORD00091,C005,Chair,Furniture,3,162.76,2026-02-25,Australia,completed
+ORD00236,C020,Headphones,Electronics,5,111.71,2026-01-13,Germany,completed
+ORD00079,C001,Phone,Electronics,4,547.28,2026-02-06,Australia,completed
+ORD00089,C054,Headphones,Electronics,4,110.88,2026-02-18,Germany,completed
+ORD00123,C004,Desk,Furniture,2,226.18,2026-01-10,USA,completed
+ORD00188,C037,Headphones,Electronics,2,116.65,2026-01-25,India,shipped
+ORD00087,C029,Notebook,Stationery,4,4.32,2026-02-01,Germany,shipped
+ORD00243,C059,Phone,Electronics,4,624.14,2026-02-17,  USA ,SHIPPED
+ORD00105,C033,Notebook,Stationery,5,4.62,2026-01-09,Germany,completed
+ORD00269,C054,Notebook,Stationery,4,4.65,2026-01-06,India,cancelled
+ORD00187,C041,Chair,Furniture,4,157.14,2026-01-17,Australia,completed
+ORD00271,C031,Laptop,Electronics,4,1027.04,2026-02-05,UK,completed
+ORD00034,C033,Chair,Furniture,5,150.36,2026-01-21,Australia,shipped

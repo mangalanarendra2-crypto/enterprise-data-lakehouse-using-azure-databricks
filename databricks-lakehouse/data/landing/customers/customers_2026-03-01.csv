@@ -1,0 +1,26 @@
+customer_id,name,email,city,segment,updated_at
+C005,Customer 005,customer005@example.com,Sydney,Consumer,2026-03-01
+C004,Customer 004,customer004@example.com,Hyderabad,SMB,2026-03-01
+C047,Customer 047,customer047@example.com,Bengaluru,Enterprise,2026-03-01
+C045,Customer 045,customer045@example.com,Berlin,Enterprise,2026-03-01
+C020,Customer 020,customer020@example.com,London,SMB,2026-03-01
+C042,Customer 042,customer042@example.com,Mumbai,SMB,2026-03-01
+C037,Customer 037,customer037@example.com,Mumbai,Enterprise,2026-03-01
+C044,Customer 044,customer044@example.com,London,Consumer,2026-03-01
+C029,Customer 029,customer029@example.com,New York,SMB,2026-03-01
+C019,Customer 019,customer019@example.com,Bengaluru,Consumer,2026-03-01
+C046,Customer 046,customer046@example.com,New York,Consumer,2026-03-01
+C025,Customer 025,customer025@example.com,Mumbai,SMB,2026-03-01
+C048,Customer 048,customer048@example.com,Mumbai,SMB,2026-03-01
+C022,Customer 022,customer022@example.com,Mumbai,Consumer,2026-03-01
+C058,Customer 058,customer058@example.com,Hyderabad,Enterprise,2026-03-01
+C033,Customer 033,customer033@example.com,Mumbai,SMB,2026-03-01
+C028,Customer 028,customer028@example.com,Berlin,Enterprise,2026-03-01
+C031,Customer 031,customer031@example.com,Hyderabad,Consumer,2026-03-01
+C017,Customer 017,customer017@example.com,New York,Consumer,2026-03-01
+C012,Customer 012,customer012@example.com,London,Enterprise,2026-03-01
+C061,Customer 061,customer061@example.com,Hyderabad,Enterprise,2026-03-01
+C062,Customer 062,customer062@example.com,Mumbai,Enterprise,2026-03-01
+C063,Customer 063,customer063@example.com,Berlin,Enterprise,2026-03-01
+C064,Customer 064,customer064@example.com,Hyderabad,SMB,2026-03-01
+C065,Customer 065,customer065@example.com,Sydney,Consumer,2026-03-01

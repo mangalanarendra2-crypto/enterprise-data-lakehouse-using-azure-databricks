@@ -1,0 +1,85 @@
+# Databricks Asset Bundle: deploys the notebooks + src/ and defines the scheduled workflow.
+#   databricks bundle validate
+#   databricks bundle deploy -t dev
+#   databricks bundle run lakehouse_medallion -t dev
+bundle:
+  name: enterprise-lakehouse
+
+variables:
+  catalog:
+    description: Unity Catalog catalog to use
+    default: lakehouse_dev
+  spark_version:
+    description: Databricks Runtime (check the current LTS in your workspace's cluster UI)
+    default: 16.4.x-scala2.12
+  node_type_id:
+    description: Azure VM size for the job cluster
+    default: Standard_DS3_v2
+
+sync:
+  include:
+    - src/**
+    - notebooks/**
+
+resources:
+  jobs:
+    lakehouse_medallion:
+      name: lakehouse-medallion-${bundle.target}
+      max_concurrent_runs: 1
+
+      job_clusters:
+        - job_cluster_key: main
+          new_cluster:
+            spark_version: ${var.spark_version}
+            node_type_id: ${var.node_type_id}
+            num_workers: 1
+            data_security_mode: SINGLE_USER   # required for Unity Catalog
+            autotermination_minutes: 20
+
+      tasks:
+        - task_key: bronze_autoloader
+          job_cluster_key: main
+          notebook_task:
+            notebook_path: ./notebooks/01_bronze_autoloader.py
+            base_parameters: { catalog: "${var.catalog}" }
+
+        - task_key: silver_merge
+          depends_on: [{ task_key: bronze_autoloader }]
+          job_cluster_key: main
+          notebook_task:
+            notebook_path: ./notebooks/02_silver_merge.py
+            base_parameters: { catalog: "${var.catalog}" }
+
+        - task_key: gold_marts
+          depends_on: [{ task_key: silver_merge }]
+          job_cluster_key: main
+          notebook_task:
+            notebook_path: ./notebooks/03_gold_marts.py
+            base_parameters: { catalog: "${var.catalog}" }
+
+        - task_key: maintenance
+          depends_on: [{ task_key: gold_marts }]
+          job_cluster_key: main
+          notebook_task:
+            notebook_path: ./notebooks/04_maintenance_time_travel.py
+            base_parameters: { catalog: "${var.catalog}" }
+
+      schedule:
+        quartz_cron_expression: "0 0 2 * * ?"   # daily 02:00
+        timezone_id: Asia/Kolkata
+        pause_status: PAUSED                     # un-pause once the first manual run succeeds
+
+targets:
+  dev:
+    mode: development
+    default: true
+    workspace:
+      host: https://<your-workspace>.azuredatabricks.net
+
+  prod:
+    mode: production
+    variables:
+      catalog: lakehouse_prod
+    workspace:
+      host: https://<your-workspace>.azuredatabricks.net
+      root_path: /Shared/.bundle/${bundle.name}/${bundle.target}

@@ -1,0 +1,61 @@
+customer_id,name,email,city,segment,updated_at
+C001,Customer 001,customer001@example.com,Bengaluru,Enterprise,2026-01-01
+C002,Customer 002,customer002@example.com,London,Consumer,2026-01-01
+C003,Customer 003,customer003@example.com,Hyderabad,Enterprise,2026-01-01
+C004,Customer 004,customer004@example.com,Sydney,Consumer,2026-01-01
+C005,Customer 005,customer005@example.com,Hyderabad,SMB,2026-01-01
+C006,Customer 006,customer006@example.com,New York,Enterprise,2026-01-01
+C007,Customer 007,customer007@example.com,New York,Enterprise,2026-01-01
+C008,Customer 008,customer008@example.com,Hyderabad,Enterprise,2026-01-01
+C009,Customer 009,customer009@example.com,London,SMB,2026-01-01
+C010,Customer 010,customer010@example.com,Hyderabad,Enterprise,2026-01-01
+C011,Customer 011,customer011@example.com,Hyderabad,Consumer,2026-01-01
+C012,Customer 012,customer012@example.com,London,Enterprise,2026-01-01
+C013,Customer 013,customer013@example.com,Sydney,Consumer,2026-01-01
+C014,Customer 014,customer014@example.com,Hyderabad,Enterprise,2026-01-01
+C015,Customer 015,customer015@example.com,Berlin,Consumer,2026-01-01
+C016,Customer 016,customer016@example.com,New York,Enterprise,2026-01-01
+C017,Customer 017,customer017@example.com,New York,Consumer,2026-01-01
+C018,Customer 018,customer018@example.com,London,Enterprise,2026-01-01
+C019,Customer 019,customer019@example.com,Mumbai,Enterprise,2026-01-01
+C020,Customer 020,customer020@example.com,New York,Enterprise,2026-01-01
+C021,Customer 021,customer021@example.com,Bengaluru,SMB,2026-01-01
+C022,Customer 022,customer022@example.com,Mumbai,Consumer,2026-01-01
+C023,Customer 023,customer023@example.com,Hyderabad,Consumer,2026-01-01
+C024,Customer 024,customer024@example.com,Bengaluru,Consumer,2026-01-01
+C025,Customer 025,customer025@example.com,Sydney,Consumer,2026-01-01
+C026,Customer 026,customer026@example.com,Mumbai,Enterprise,2026-01-01
+C027,Customer 027,customer027@example.com,New York,Consumer,2026-01-01
+C028,Customer 028,customer028@example.com,Berlin,Enterprise,2026-01-01
+C029,Customer 029,customer029@example.com,Bengaluru,Enterprise,2026-01-01
+C030,Customer 030,customer030@example.com,New York,Consumer,2026-01-01
+C031,Customer 031,customer031@example.com,Hyderabad,Consumer,2026-01-01
+C032,Customer 032,customer032@example.com,Hyderabad,Consumer,2026-01-01
+C033,Customer 033,customer033@example.com,Mumbai,SMB,2026-01-01
+C034,Customer 034,customer034@example.com,Berlin,Consumer,2026-01-01
+C035,Customer 035,customer035@example.com,London,SMB,2026-01-01
+C036,Customer 036,customer036@example.com,London,Consumer,2026-01-01
+C037,Customer 037,customer037@example.com,London,SMB,2026-01-01
+C038,Customer 038,customer038@example.com,Bengaluru,Enterprise,2026-01-01
+C039,Customer 039,customer039@example.com,Sydney,Enterprise,2026-01-01
+C040,Customer 040,customer040@example.com,Berlin,Enterprise,2026-01-01
+C041,Customer 041,customer041@example.com,Hyderabad,Consumer,2026-01-01
+C042,Customer 042,customer042@example.com,Bengaluru,Consumer,2026-01-01
+C043,Customer 043,customer043@example.com,London,SMB,2026-01-01
+C044,Customer 044,customer044@example.com,Berlin,SMB,2026-01-01
+C045,Customer 045,customer045@example.com,Bengaluru,Consumer,2026-01-01
+C046,Customer 046,customer046@example.com,Hyderabad,Enterprise,2026-01-01
+C047,Customer 047,customer047@example.com,New York,SMB,2026-01-01
+C048,Customer 048,customer048@example.com,Mumbai,SMB,2026-01-01
+C049,Customer 049,customer049@example.com,Mumbai,SMB,2026-01-01
+C050,Customer 050,customer050@example.com,London,Enterprise,2026-01-01
+C051,Customer 051,customer051@example.com,Berlin,Enterprise,2026-01-01
+C052,Customer 052,customer052@example.com,Sydney,Consumer,2026-01-01
+C053,Customer 053,customer053@example.com,New York,SMB,2026-01-01
+C054,Customer 054,customer054@example.com,Bengaluru,Consumer,2026-01-01
+C055,Customer 055,customer055@example.com,Bengaluru,Consumer,2026-01-01
+C056,Customer 056,customer056@example.com,London,Consumer,2026-01-01
+C057,Customer 057,customer057@example.com,Sydney,SMB,2026-01-01
+C058,Customer 058,customer058@example.com,Hyderabad,Enterprise,2026-01-01
+C059,Customer 059,customer059@example.com,Bengaluru,SMB,2026-01-01
+C060,Customer 060,customer060@example.com,Berlin,Consumer,2026-01-01
